@@ -1,0 +1,2697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260607120919131NCY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260607120919180PGQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Operación rescate: El robot que perdió sus comandos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mari Carmen López López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780823392847</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzh-zeyd8r4q6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzh-zeyd8r4q6</odePageId>
+      <odeBlockId>block-1780737816025-s1gelc59i</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzh-zeyd8r4q6</odePageId>
+          <odeBlockId>block-1780737816025-s1gelc59i</odeBlockId>
+          <odeIdeviceId>idevice-1780737816022-a7ad6v4sz</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780737816022-a7ad6v4sz" title="" href="{{context_path}}/content/resources/Imagen introducción.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Imagen introducción.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="Gemini (dominio público)" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780737816022-a7ad6v4sz","img_0":{"img":"{{context_path}}/content/resources/Imagen introducción.png","thumbnail":"{{context_path}}/content/resources/Imagen introducción.png","title":"","linktitle":"","author":"","linkauthor":"","license":"Gemini (dominio público)"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzl-wms5sr6g4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzl-wms5sr6g4</odePageId>
+      <odeBlockId>block-1780737907808-qtqogt3kp</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzl-wms5sr6g4</odePageId>
+          <odeBlockId>block-1780737907808-qtqogt3kp</odeBlockId>
+          <odeIdeviceId>idevice-1780737907806-iagztab3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola, sabios de 5 años!</p>
+<p>¿A que no sabéis quién os escribe? ¡Soy yo, Bee-Bot! 🐝🤖</p>
+<p>Soy un pequeño robot con forma de abejita, pero tengo un secreto: ¡no soy mágico! Mis motores y mis luces solo funcionan si personas tan listas como vosotros me ayudáis. Yo no sé caminar solo, así que necesito que os convirtáis en mis directores y directoras de misiones.</p>
+<p>Para trabajar conmigo, vais a tener que usar unos superpoderes geniales que ya tenéis dentro:</p>
+<p>El mapa de los pasos mágicos: Para que yo llegue a mi meta, tendréis que pensar el camino pasito a pasito. Primero un botón, luego otro... ¡Como si fuerais científicos!<br />Los mapas del espacio: Me vais a enseñar a moverme hacia delante, hacia atrás, hacia la izquierda y hacia la derecha. ¡Vais a ser mis ojos!<br />Trabajo en equipo: Juntos tendréis que hablar, poneros de acuerdo y decidir qué ruta es la mejor. ¡Dos cabezas piensan más que una!<br />El superpoder de la paciencia: Si alguna vez os equivocáis de botón y yo me voy hacia un lado que no queríais... ¡no pasa nada! Es súper divertido. Nos reímos, borramos la memoria y lo volvemos a intentar juntos hasta conseguirlo. ¡De los despistes se aprende un montón!<br />¿Estáis preparados para pulsar mis botones, trabajar en equipo y empezar esta gran aventura robótica?</p>
+<p>¡Preparad vuestros dedos y vuestras mentes, que la misión empieza... YA! 🚀</p>
+<p>Un abrazo con parpadeo de luces,</p>
+<p>Tu amigo, Bee-Bot 🐝✨</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780737907806-iagztab3r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola, sabios de 5 años!</p>\n<p>¿A que no sabéis quién os escribe? ¡Soy yo, Bee-Bot! 🐝🤖</p>\n<p>Soy un pequeño robot con forma de abejita, pero tengo un secreto: ¡no soy mágico! Mis motores y mis luces solo funcionan si personas tan listas como vosotros me ayudáis. Yo no sé caminar solo, así que necesito que os convirtáis en mis directores y directoras de misiones.</p>\n<p>Para trabajar conmigo, vais a tener que usar unos superpoderes geniales que ya tenéis dentro:</p>\n<p>El mapa de los pasos mágicos: Para que yo llegue a mi meta, tendréis que pensar el camino pasito a pasito. Primero un botón, luego otro... ¡Como si fuerais científicos!<br />Los mapas del espacio: Me vais a enseñar a moverme hacia delante, hacia atrás, hacia la izquierda y hacia la derecha. ¡Vais a ser mis ojos!<br />Trabajo en equipo: Juntos tendréis que hablar, poneros de acuerdo y decidir qué ruta es la mejor. ¡Dos cabezas piensan más que una!<br />El superpoder de la paciencia: Si alguna vez os equivocáis de botón y yo me voy hacia un lado que no queríais... ¡no pasa nada! Es súper divertido. Nos reímos, borramos la memoria y lo volvemos a intentar juntos hasta conseguirlo. ¡De los despistes se aprende un montón!<br />¿Estáis preparados para pulsar mis botones, trabajar en equipo y empezar esta gran aventura robótica?</p>\n<p>¡Preparad vuestros dedos y vuestras mentes, que la misión empieza... YA! 🚀</p>\n<p>Un abrazo con parpadeo de luces,</p>\n<p>Tu amigo, Bee-Bot 🐝✨</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzl-wms5sr6g4</odePageId>
+      <odeBlockId>block-1780738347009-62k2xvaii</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzl-wms5sr6g4</odePageId>
+          <odeBlockId>block-1780738347009-62k2xvaii</odeBlockId>
+          <odeIdeviceId>idevice-1780738347006-ti73yrk57</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780738347006-ti73yrk57" title="" href="{{context_path}}/content/resources/Imagen presentación.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Imagen presentación.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780738347006-ti73yrk57","img_0":{"img":"{{context_path}}/content/resources/Imagen presentación.png","thumbnail":"{{context_path}}/content/resources/Imagen presentación.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzo-wupcemsd6</odePageId>
+  <odeParentPageId>page-mq3k9nzl-wms5sr6g4</odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzq-hlh2vq1k6</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 1: ¿Qué sabemos de los robot?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1: ¿Qué sabemos de los robot?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 1: ¿Qué sabemos de los robot?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 1: ¿Qué sabemos de los robot?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzq-hlh2vq1k6</odePageId>
+      <odeBlockId>block-1780738882207-2k74mlbld</odeBlockId>
+      <blockName></blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzq-hlh2vq1k6</odePageId>
+          <odeBlockId>block-1780738882207-2k74mlbld</odeBlockId>
+          <odeIdeviceId>idevice-1780738882204-q3p8j9hxz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Hablamos en la Asamblea: ¿Cómo es un robot?</strong><br />Nos sentamos todos juntos en círculo para pensar y activar nuestras mentes. Nos preguntamos: ¿Cómo será un robot? ¿Tiene cables? ¿Habla? ¿Tiene luces? Cada uno de nosotros describió cómo se imaginaba a estas máquinas.</p>
+<p><strong>Investigamos en Internet: ¿Es como pensábamos?</strong><br />Para comprobar si nuestras ideas eran correctas, nos convertimos en científicos y buscamos imágenes reales en el ordenador. ¡Y nos llevamos una gran sorpresa! Descubrimos que no todos los robots son gigantes de metal.</p>
+<p><strong>¡Conocemos a Bee-Bot!</strong><br />¡Descubrimos a nuestro nuevo amigo! Es un robot con forma de abejita, de colores brillantes, que vive en entornos fantásticos y que tiene botones mágicos en su espalda.</p>
+<p><strong>Nuestro Gran Aprendizaje</strong><br />Al terminar la actividad, hemos aprendido algo muy importante que queremos contar a todo el colegio: "La tecnología no es magia. Los robots no piensan solos, necesitan nuestras órdenes. ¡La tecnología sirve para ayudarnos y para aprender juntos jugando!"</p>
+<p>Sesiones: 1.</p>
+<p>Agrupamiento: En grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780738882204-q3p8j9hxz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Hablamos en la Asamblea: ¿Cómo es un robot?</strong><br />Nos sentamos todos juntos en círculo para pensar y activar nuestras mentes. Nos preguntamos: ¿Cómo será un robot? ¿Tiene cables? ¿Habla? ¿Tiene luces? Cada uno de nosotros describió cómo se imaginaba a estas máquinas.</p>\n<p><strong>Investigamos en Internet: ¿Es como pensábamos?</strong><br />Para comprobar si nuestras ideas eran correctas, nos convertimos en científicos y buscamos imágenes reales en el ordenador. ¡Y nos llevamos una gran sorpresa! Descubrimos que no todos los robots son gigantes de metal.</p>\n<p><strong>¡Conocemos a Bee-Bot!</strong><br />¡Descubrimos a nuestro nuevo amigo! Es un robot con forma de abejita, de colores brillantes, que vive en entornos fantásticos y que tiene botones mágicos en su espalda.</p>\n<p><strong>Nuestro Gran Aprendizaje</strong><br />Al terminar la actividad, hemos aprendido algo muy importante que queremos contar a todo el colegio: \"La tecnología no es magia. Los robots no piensan solos, necesitan nuestras órdenes. ¡La tecnología sirve para ayudarnos y para aprender juntos jugando!\"</p>\n<p>Sesiones: 1.</p>\n<p>Agrupamiento: En grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzs-blbs9o96w</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 2: Dibujo mi robot</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2: Dibujo mi robot</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2: Dibujo mi robot</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2: Dibujo mi robot</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzs-blbs9o96w</odePageId>
+      <odeBlockId>block-1780739562417-gvej27n3k</odeBlockId>
+      <blockName></blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzs-blbs9o96w</odePageId>
+          <odeBlockId>block-1780739562417-gvej27n3k</odeBlockId>
+          <odeIdeviceId>idevice-1780739562414-blhuhf9qd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡Pintamos en pareja!</strong><br />Dos cabezas piensan mejor que una. Hoy vamos a trabajar con un compañero o compañera.</p>
+<p>Vais a compartir la pantalla digital para dibujar juntos.<br />¿Cómo sería vuestro robot ideal? ¿Tendrá alas de mariposa, ruedas de bólido o súper luces de colores? ¡Dejad volar vuestra imaginación y dibujadlo juntos!</p>
+<p><br /><strong>Los Guardianes de la Tecnología (Normas súper importantes)</strong><br />Para que las pantallas no se rompan y podamos jugar muchos días, tenemos que convertirnos en sus guardianes. ¡Vamos a aprender las 3 Reglas de Oro:</p>
+<p><em>Dedos suaves: </em>Tocamos la pantalla con delicadeza, como si estuviéramos acariciando a un pajarito. ¡Nada de golpear ni apretar fuerte!<br /><em>Manos limpias y secas: </em>Antes de tocar el material digital, nos lavamos muy bien las manos. ¡Al ordenador no le gusta la plastilina ni el pegamento! <br /><em>Compartir el turno:</em> Mientras un compañero dibuja, el otro mira y ayuda a pensar. ¡Luego cambiamos! En el equipo de guardianes, todos jugamos. <br /></p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />Al terminar vuestro dibujo, recordad este superconsejo:</p>
+<p>"Cuidar las pantallas y los robots es nuestra responsabilidad. Si los tratamos con cariño, nos acompañarán en mil aventuras más".</p>
+<p>Sesiones: 1.</p>
+<p>Agrupamiento: Parejas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780739562414-blhuhf9qd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Pintamos en pareja!</strong><br />Dos cabezas piensan mejor que una. Hoy vamos a trabajar con un compañero o compañera.</p>\n<p>Vais a compartir la pantalla digital para dibujar juntos.<br />¿Cómo sería vuestro robot ideal? ¿Tendrá alas de mariposa, ruedas de bólido o súper luces de colores? ¡Dejad volar vuestra imaginación y dibujadlo juntos!</p>\n<p><br /><strong>Los Guardianes de la Tecnología (Normas súper importantes)</strong><br />Para que las pantallas no se rompan y podamos jugar muchos días, tenemos que convertirnos en sus guardianes. ¡Vamos a aprender las 3 Reglas de Oro:</p>\n<p><em>Dedos suaves: </em>Tocamos la pantalla con delicadeza, como si estuviéramos acariciando a un pajarito. ¡Nada de golpear ni apretar fuerte!<br /><em>Manos limpias y secas: </em>Antes de tocar el material digital, nos lavamos muy bien las manos. ¡Al ordenador no le gusta la plastilina ni el pegamento! <br /><em>Compartir el turno:</em> Mientras un compañero dibuja, el otro mira y ayuda a pensar. ¡Luego cambiamos! En el equipo de guardianes, todos jugamos. <br /></p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />Al terminar vuestro dibujo, recordad este superconsejo:</p>\n<p>\"Cuidar las pantallas y los robots es nuestra responsabilidad. Si los tratamos con cariño, nos acompañarán en mil aventuras más\".</p>\n<p>Sesiones: 1.</p>\n<p>Agrupamiento: Parejas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 3: Conocemos nuestro robot</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3: Conocemos nuestro robot</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 3: Conocemos nuestro robot</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 3: Conocemos nuestro robot</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+      <odeBlockId>block-1780739791109-hlofwfnyh</odeBlockId>
+      <blockName></blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+          <odeBlockId>block-1780739791109-hlofwfnyh</odeBlockId>
+          <odeIdeviceId>idevice-1780739791107-0xj9o1td1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El Misterio de la Caja: ¿Qué podemos hacer con él?</strong><br />¡Por fin está aquí! Vuestra maestra o maestro os va a enseñar el robot Bee-Bot de carne y hueso (¡bueno, de plástico y cables!).</p>
+<p>Nos vamos a organizar en pequeños equipos y os daremos un robot para vuestro grupo.<br />Durante unos minutos, no vamos a tocar ningún botón. Solo vamos a mirarlo de cerca y a pensar con los compañeros: ¿Para qué servirá este robot? ¿Cómo se moverá? ¿Qué podemos hacer con él? ¡Es el momento de inventar ideas súper divertidas!<br /><strong>¡Compartimos nuestras Grandes Ideas!</strong><br />¡Abran paso a los científicos! Un portavoz de cada equipo se levantará y contará al resto de la clase las ideas tan chulas que habéis pensado en vuestro grupo. ¡A ver qué equipo tiene la idea más original!</p>
+<p><strong>El Cine de Bee-Bot: ¿Cómo funciona?</strong><br />¡Ahora vamos a descubrir el gran secreto! En la pantalla del eXeLearning vamos a ver unos vídeos explicativos súper divertidos.</p>
+<p>Prestad mucha atención para descubrir qué pasa cuando pulsamos las flechas de su espalda.<br />¡Fijaos bien en cómo parpadean sus ojos y cómo suena cuando llega a la meta!<br /><br /></p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />Al terminar de ver los vídeos, recordad nuestro superpoder robótico:</p>
+<p>"Para ser unos buenos programadores, primero tenemos que observar, escuchar a los compañeros en equipo y aprender cómo funcionan las cosas".</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamiento: En pequeños grupos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780739791107-0xj9o1td1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El Misterio de la Caja: ¿Qué podemos hacer con él?</strong><br />¡Por fin está aquí! Vuestra maestra o maestro os va a enseñar el robot Bee-Bot de carne y hueso (¡bueno, de plástico y cables!).</p>\n<p>Nos vamos a organizar en pequeños equipos y os daremos un robot para vuestro grupo.<br />Durante unos minutos, no vamos a tocar ningún botón. Solo vamos a mirarlo de cerca y a pensar con los compañeros: ¿Para qué servirá este robot? ¿Cómo se moverá? ¿Qué podemos hacer con él? ¡Es el momento de inventar ideas súper divertidas!<br /><strong>¡Compartimos nuestras Grandes Ideas!</strong><br />¡Abran paso a los científicos! Un portavoz de cada equipo se levantará y contará al resto de la clase las ideas tan chulas que habéis pensado en vuestro grupo. ¡A ver qué equipo tiene la idea más original!</p>\n<p><strong>El Cine de Bee-Bot: ¿Cómo funciona?</strong><br />¡Ahora vamos a descubrir el gran secreto! En la pantalla del eXeLearning vamos a ver unos vídeos explicativos súper divertidos.</p>\n<p>Prestad mucha atención para descubrir qué pasa cuando pulsamos las flechas de su espalda.<br />¡Fijaos bien en cómo parpadean sus ojos y cómo suena cuando llega a la meta!<br /><br /></p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />Al terminar de ver los vídeos, recordad nuestro superpoder robótico:</p>\n<p>\"Para ser unos buenos programadores, primero tenemos que observar, escuchar a los compañeros en equipo y aprender cómo funcionan las cosas\".</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamiento: En pequeños grupos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+      <odeBlockId>block-1780740154715-avo2ozvyd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+          <odeBlockId>block-1780740154715-avo2ozvyd</odeBlockId>
+          <odeIdeviceId>idevice-1780740154714-smaahug5s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="tarea-3-conocemos-nuestro-robot.html" title="Vídeos" onclick="window.open('https://padlet.com/maricarmenll1311/robotica-5-anos-zdngy9xgfdn9bmj8','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Vídeos informativos</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780740154714-smaahug5s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-mq3k9nzt-ak1yfexv2\" title=\"Vídeos\" onclick=\"window.open('https://padlet.com/maricarmenll1311/robotica-5-anos-zdngy9xgfdn9bmj8','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Vídeos informativos</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+      <odeBlockId>block-1780740352634-74qyori1o</odeBlockId>
+      <blockName>Test</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzt-ak1yfexv2</odePageId>
+          <odeBlockId>block-1780740352634-74qyori1o</odeBlockId>
+          <odeIdeviceId>idevice-1780740352633-472s7hkfr</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="quext-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1780740352633-472s7hkfr" data-evaluationb="false" data-evaluationid="f0c0e4ba-e188-4d5d-8253-c4ba218374c5"></div><div class="quext-instructions QXTP-instructions"><p>Elija la respuesta correcta</p></div><div class="quext-version js-hidden">2</div><div class="quext-feedback-game"></div><div class="quext-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C3%E7%D7%EA%E6%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D7%FE%FB%F8%F3%B7%A0%A2%FE%F3%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D7%FE%FB%F8%F3%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A0%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C1%FB%B2%D0%F7%F7%BF%D0%FD%E6%B2%F7%E1%E6s%B2%F7%FC%B2%F7%FE%B2%FCh%FF%F7%E0%FD%B2%A3%B2%EB%B2%E3%E7%FB%F7%E0%F7%B2%FE%FE%F7%F5%F3%E0%B2%F3%FE%B2%FCh%FF%F7%E0%FD%B2%A0%BE%B2%E3%E7%F7%B2%F7%E1%E6s%B2%F8%E7%E1%E6%FD%B2%F7%FC%B2%FE%F3%B2%F1%F3%E1%FB%FE%FE%F3%B2%F6%F7%B2%F6%F7%FE%F3%FC%E6%F7%BC%BC%BC%B2-%D1%E7s%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E6%F7%FC%F5%FD%B2%E3%E7%F7%B2%E2%E7%FE%E1%F3%E0%B2%FE%F3%B2%F4%FE%F7%F1%FA%F3%B2%FA%F3%F1%FB%F3%B2%F3%F6%F7%FE%F3%FC%E6%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%A7%B2%E4%F7%F1%F7%E1%BC%B0%BE%B0%A3%B2%E4%F7%E8%BC%B0%BE%B0%B0%BE%B0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F4%A2%F1%A2%F7%A6%F0%F3%BF%F7%A3%AA%AA%BF%A6%F6%A7%F6%BF%AA%A0%A7%A1%BF%F1%A6%F0%F3%A0%A3%AA%A1%A5%A6%F1%A7%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A5%A6%A2%A1%A7%A0%A4%A1%A1%BF%A6%A5%A0%E1%A5%FA%F9%F4%E0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%E2%FD%E0%B2%E2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%A1%A1%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E7%FC%F3%B2%E4%FB%F6%F3%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B03%DA%F3%B2%E2%F7%E0%F6%FB%F6%FD%B2%E6%FD%F6%F3%E1%B2%E1%E7%E1%B2%E4%FB%F6%F3%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%7F%F6%F7%FD%B2%F6%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%E1%B2%E0s%E2%FB%F6%F3%E1%B0%EF%EF</div><div class="quext-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzu-tgvjoippd</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 4: El robot sigue caminos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4: El robot sigue caminos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4: El robot sigue caminos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 4: El robot sigue caminos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzu-tgvjoippd</odePageId>
+      <odeBlockId>block-1780740304516-x4vhbkmjv</odeBlockId>
+      <blockName></blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzu-tgvjoippd</odePageId>
+          <odeBlockId>block-1780740304516-x4vhbkmjv</odeBlockId>
+          <odeIdeviceId>idevice-1780740304514-sm37bfl2u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡El gran reto de las esquinas!</strong><br />Ya sabemos mover a Bee-Bot en línea recta, pero... ¿qué pasa si queremos llegar a un número que está a un lado? ¡Es el momento de usar nuestro superpoder de la orientación y la lateralidad!</p>
+<p>Hoy vamos a descubrir dos botones nuevos en la espalda de Bee-Bot: ¡las flechas que giran a la izquierda y a la derecha! <br />¡Ojo, truco de programador! Cuando pulsamos un giro, Bee-Bot no avanza, ¡solo baila y cambia hacia dónde mira!<br /><strong>¡Cuidado con los obstáculos!</strong><br />Para complicar la misión, tu maestra o maestro va a poner "obstáculos" en la alfombra (pueden ser bloques de madera o juguetes).</p>
+<p>Vuestro objetivo en equipo será llevar a Bee-Bot desde la casilla de salida hasta el número que os toque... ¡sin chocar con nada!<br />Tendréis que pensar el camino juntos: "Primero avanza dos pasos, luego gira a la derecha, y luego avanza un paso más". ¡Es como escribir un mapa del tesoro secreto!</p>
+<p><strong>Gestionamos las emociones: ¡Se ha chocado!</strong><br />¿Qué pasa si calculamos mal y Bee-Bot se choca contra un bloque? ¡Absolutamente nada!</p>
+<p>No nos enfadamos ni nos ponemos tristes. Los mejores ingenieros del mundo fallan muchas veces antes de acertar.<br />Nos reímos, nos damos un choca esos cinco, pulsamos el botón de Clear (Borrar) y volvemos a contar los pasos en equipo. ¡Cada error nos hace más listos!<br /></p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Aprender izquierda y derecha nos ayuda a guiar a Bee-Bot por caminos difíciles. Si nos equivocamos, ¡lo volvemos a intentar con una sonrisa!"</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamiento: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780740304514-sm37bfl2u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡El gran reto de las esquinas!</strong><br />Ya sabemos mover a Bee-Bot en línea recta, pero... ¿qué pasa si queremos llegar a un número que está a un lado? ¡Es el momento de usar nuestro superpoder de la orientación y la lateralidad!</p>\n<p>Hoy vamos a descubrir dos botones nuevos en la espalda de Bee-Bot: ¡las flechas que giran a la izquierda y a la derecha! <br />¡Ojo, truco de programador! Cuando pulsamos un giro, Bee-Bot no avanza, ¡solo baila y cambia hacia dónde mira!<br /><strong>¡Cuidado con los obstáculos!</strong><br />Para complicar la misión, tu maestra o maestro va a poner \"obstáculos\" en la alfombra (pueden ser bloques de madera o juguetes).</p>\n<p>Vuestro objetivo en equipo será llevar a Bee-Bot desde la casilla de salida hasta el número que os toque... ¡sin chocar con nada!<br />Tendréis que pensar el camino juntos: \"Primero avanza dos pasos, luego gira a la derecha, y luego avanza un paso más\". ¡Es como escribir un mapa del tesoro secreto!</p>\n<p><strong>Gestionamos las emociones: ¡Se ha chocado!</strong><br />¿Qué pasa si calculamos mal y Bee-Bot se choca contra un bloque? ¡Absolutamente nada!</p>\n<p>No nos enfadamos ni nos ponemos tristes. Los mejores ingenieros del mundo fallan muchas veces antes de acertar.<br />Nos reímos, nos damos un choca esos cinco, pulsamos el botón de Clear (Borrar) y volvemos a contar los pasos en equipo. ¡Cada error nos hace más listos!<br /></p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Aprender izquierda y derecha nos ayuda a guiar a Bee-Bot por caminos difíciles. Si nos equivocamos, ¡lo volvemos a intentar con una sonrisa!\"</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamiento: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzv-z7qekd6tk</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 5: Derecha izquierda</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5: Derecha izquierda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5: Derecha izquierda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5: Derecha izquierda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzv-z7qekd6tk</odePageId>
+      <odeBlockId>block-1780740600050-jcr7hefra</odeBlockId>
+      <blockName></blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzv-z7qekd6tk</odePageId>
+          <odeBlockId>block-1780740600050-jcr7hefra</odeBlockId>
+          <odeIdeviceId>idevice-1780740600049-9dbyf5k8b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El juego de los "Niños-Robot"</strong><br />¡Hoy los robots de la clase somos nosotros! Antes de tocar a Bee-Bot, vamos a entrenar nuestro propio cuerpo.</p>
+<p>Por parejas, uno de vosotros será el Programador y el otro será el Niño-Robot.</p>
+<p>El programador le dará órdenes mágicas a su compañero pulsando suavemente su hombro o diciéndole el comando: "¡Un paso adelante!", "¡Gira a la derecha!", "¡Un paso atrás!".</p>
+<p>¡El Niño-Robot solo puede moverse si su programador le da la orden! Así sentiremos en nuestro cuerpo cómo se mueve Bee-Bot.</p>
+<p><strong>¡Ponemos a prueba a Bee-Bot!</strong><br />Ahora que ya hemos practicado con nuestro cuerpo y sabemos hacia dónde está la derecha y la izquierda, vamos a probarlo con el robot de verdad en la alfombra.</p>
+<p>Llevad a Bee-Bot a través de los circuitos girando hacia los lados.<br />Recordad el truco que aprendimos con nuestro cuerpo: cuando ordenamos un giro, el robot no avanza, ¡solo cambia de dirección hacia donde mira! Después de girar, ¡necesita otra orden para caminar!</p>
+<p><strong>¡Pensamos juntos en equipo!</strong><br />Guiar al robot hacia los lados puede ser un poco difícil al principio. Si Bee-Bot gira hacia el lado contrario al que queríais... ¡no pasa nada!</p>
+<p>Mirad hacia dónde mira el robot, poned vuestro cuerpo en la misma dirección y pensad juntos: ¿Cuál es su derecha?<br />Borrad la memoria con el botón Clear (Borrar) y volved a pulsar los botones en equipo. ¡Equivocarse es parte del juego!</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Primero aprendemos a movernos nosotros hacia la izquierda y la derecha, y luego... ¡le enseñamos el camino a nuestro robot Bee-Bot!"</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamientos: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780740600049-9dbyf5k8b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El juego de los \"Niños-Robot\"</strong><br />¡Hoy los robots de la clase somos nosotros! Antes de tocar a Bee-Bot, vamos a entrenar nuestro propio cuerpo.</p>\n<p>Por parejas, uno de vosotros será el Programador y el otro será el Niño-Robot.</p>\n<p>El programador le dará órdenes mágicas a su compañero pulsando suavemente su hombro o diciéndole el comando: \"¡Un paso adelante!\", \"¡Gira a la derecha!\", \"¡Un paso atrás!\".</p>\n<p>¡El Niño-Robot solo puede moverse si su programador le da la orden! Así sentiremos en nuestro cuerpo cómo se mueve Bee-Bot.</p>\n<p><strong>¡Ponemos a prueba a Bee-Bot!</strong><br />Ahora que ya hemos practicado con nuestro cuerpo y sabemos hacia dónde está la derecha y la izquierda, vamos a probarlo con el robot de verdad en la alfombra.</p>\n<p>Llevad a Bee-Bot a través de los circuitos girando hacia los lados.<br />Recordad el truco que aprendimos con nuestro cuerpo: cuando ordenamos un giro, el robot no avanza, ¡solo cambia de dirección hacia donde mira! Después de girar, ¡necesita otra orden para caminar!</p>\n<p><strong>¡Pensamos juntos en equipo!</strong><br />Guiar al robot hacia los lados puede ser un poco difícil al principio. Si Bee-Bot gira hacia el lado contrario al que queríais... ¡no pasa nada!</p>\n<p>Mirad hacia dónde mira el robot, poned vuestro cuerpo en la misma dirección y pensad juntos: ¿Cuál es su derecha?<br />Borrad la memoria con el botón Clear (Borrar) y volved a pulsar los botones en equipo. ¡Equivocarse es parte del juego!</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Primero aprendemos a movernos nosotros hacia la izquierda y la derecha, y luego... ¡le enseñamos el camino a nuestro robot Bee-Bot!\"</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamientos: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzw-dqjyg7bsv</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 6: Hacía atrás</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6: Hacía atrás</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6: Hacía atrás</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 6: Hacía atrás</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzw-dqjyg7bsv</odePageId>
+      <odeBlockId>block-1780740960714-9i7949sl0</odeBlockId>
+      <blockName></blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzw-dqjyg7bsv</odePageId>
+          <odeBlockId>block-1780740960714-9i7949sl0</odeBlockId>
+          <odeIdeviceId>idevice-1780740960713-ds71pjogj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El juego del cangrejo: ¡Caminamos al revés!</strong><br />¡Ya somos unos expertos moviendo a Bee-Bot hacia adelante y girando hacia los lados! Pero hoy vamos a descubrir un superpoder nuevo: ¡ir hacia atrás!</p>
+<p>Volvemos a convertirnos en robots por parejas en la clase.<br />El programador le dará la orden al Niño-Robot: "¡Un paso hacia atrás!".<br />Para hacerlo bien, tenemos que movernos como los cangrejos: mirando hacia el frente pero dando el paso hacia el espacio que tenemos detrás de la espalda, con mucho cuidado para no chocar con ningún compañero.</p>
+<p><strong>¡Cuidado con el botón de la flecha trasera!</strong><br />Ahora que lo hemos probado con nuestro cuerpo, vamos a buscar la flecha que apunta hacia abajo en la espalda de Bee-Bot.</p>
+<p>¡Atención, truco de programador! Cuando pulsas la flecha hacia atrás, Bee-Bot camina como un cangrejo: se mueve hacia la casilla de atrás pero ¡no se da la vuelta! Sigue mirando hacia el mismo sitio.<br />Vamos a practicar en la alfombra de los números: poned al robot en una casilla e intentad que retroceda hasta el número anterior. ¡Contad los pasos hacia atrás en equipo!</p>
+<p><strong>¡Superamos la frustración si nos caemos!</strong><br />Ir hacia atrás puede ser un poco engañoso y es muy normal que el robot se salga de la alfombra o no termine donde pensábamos.</p>
+<p>Si Bee-Bot termina en un número que no queríais, ¡esconded la preocupación y sacad vuestra sonrisa de científicos!<br />Recordad: borramos la memoria con el botón Clear (Borrar), nos ayudamos entre los miembros del equipo y volvemos a contar las casillas. ¡Cada vez lo hacemos mejor!</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Caminar hacia atrás nos ayuda a corregir el camino sin tener que dar la vuelta entera. ¡Es el truco secreto de los mejores programadores!"</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamientos: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780740960713-ds71pjogj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El juego del cangrejo: ¡Caminamos al revés!</strong><br />¡Ya somos unos expertos moviendo a Bee-Bot hacia adelante y girando hacia los lados! Pero hoy vamos a descubrir un superpoder nuevo: ¡ir hacia atrás!</p>\n<p>Volvemos a convertirnos en robots por parejas en la clase.<br />El programador le dará la orden al Niño-Robot: \"¡Un paso hacia atrás!\".<br />Para hacerlo bien, tenemos que movernos como los cangrejos: mirando hacia el frente pero dando el paso hacia el espacio que tenemos detrás de la espalda, con mucho cuidado para no chocar con ningún compañero.</p>\n<p><strong>¡Cuidado con el botón de la flecha trasera!</strong><br />Ahora que lo hemos probado con nuestro cuerpo, vamos a buscar la flecha que apunta hacia abajo en la espalda de Bee-Bot.</p>\n<p>¡Atención, truco de programador! Cuando pulsas la flecha hacia atrás, Bee-Bot camina como un cangrejo: se mueve hacia la casilla de atrás pero ¡no se da la vuelta! Sigue mirando hacia el mismo sitio.<br />Vamos a practicar en la alfombra de los números: poned al robot en una casilla e intentad que retroceda hasta el número anterior. ¡Contad los pasos hacia atrás en equipo!</p>\n<p><strong>¡Superamos la frustración si nos caemos!</strong><br />Ir hacia atrás puede ser un poco engañoso y es muy normal que el robot se salga de la alfombra o no termine donde pensábamos.</p>\n<p>Si Bee-Bot termina en un número que no queríais, ¡esconded la preocupación y sacad vuestra sonrisa de científicos!<br />Recordad: borramos la memoria con el botón Clear (Borrar), nos ayudamos entre los miembros del equipo y volvemos a contar las casillas. ¡Cada vez lo hacemos mejor!</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Caminar hacia atrás nos ayuda a corregir el camino sin tener que dar la vuelta entera. ¡Es el truco secreto de los mejores programadores!\"</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamientos: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzy-lkksicgva</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 7: Detectives de errores</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7: Detectives de errores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7: Detectives de errores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 7: Detectives de errores</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzy-lkksicgva</odePageId>
+      <odeBlockId>block-1780741409385-kufto8g8c</odeBlockId>
+      <blockName></blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzy-lkksicgva</odePageId>
+          <odeBlockId>block-1780741409385-kufto8g8c</odeBlockId>
+          <odeIdeviceId>idevice-1780741409384-crknn0fbx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡Bee-Bot se ha vuelto un poco loco!</strong><br />¡Atención, equipo de programadores! Vuestra maestra o maestro va a intentar llevar a Bee-Bot hasta un número de la alfombra, pero... ¡lo va a programar mal a propósito!</p>
+<p>El robot se moverá por la cuadrícula, pero se pasará de largo, se quedará corto o girará hacia el lado equivocado.</p>
+<p>Vuestra misión hoy no es programar, ¡es investigar! Tenéis que abrir bien los ojos, mirar el recorrido y descubrir en qué momento exacto se ha equivocado el maestro.</p>
+<p><strong>El Súper Taller de Reparaciones</strong><br />Cuando descubráis dónde está el fallo, os toca trabajar en equipo para arreglarlo:</p>
+<p>Hablad con vuestros compañeros de grupo: ¿Ha dado un paso de más? ¿Tenía que ir hacia atrás en vez de hacia adelante?<br />Coged el robot, pulsad el botón de Clear (Borrar) para limpiarle la cabecita, y escribid las instrucciones correctas en su espalda. ¡A ver quién consigue salvar a Bee-Bot y llevarlo a su destino!</p>
+<p><strong>¡El error es nuestro amigo!</strong><br />Con este juego de detectives vamos a descubrir el secreto más importante de la robótica:</p>
+<p>¡Equivocarse no es malo! Incluso a los maestros y a los ordenadores se les escapan los errores a veces.</p>
+<p>Lo divertido de la tecnología es que los fallos nos ayudan a pensar, a buscar soluciones juntos y a entender mucho mejor cómo funcionan las cosas. ¡Un error es solo una oportunidad para volver a empezar!</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Un buen programador no es el que nunca se equivoca, sino el detective que encuentra el error, lo arregla en equipo y lo vuelve a intentar con paciencia".</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamiento: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780741409384-crknn0fbx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Bee-Bot se ha vuelto un poco loco!</strong><br />¡Atención, equipo de programadores! Vuestra maestra o maestro va a intentar llevar a Bee-Bot hasta un número de la alfombra, pero... ¡lo va a programar mal a propósito!</p>\n<p>El robot se moverá por la cuadrícula, pero se pasará de largo, se quedará corto o girará hacia el lado equivocado.</p>\n<p>Vuestra misión hoy no es programar, ¡es investigar! Tenéis que abrir bien los ojos, mirar el recorrido y descubrir en qué momento exacto se ha equivocado el maestro.</p>\n<p><strong>El Súper Taller de Reparaciones</strong><br />Cuando descubráis dónde está el fallo, os toca trabajar en equipo para arreglarlo:</p>\n<p>Hablad con vuestros compañeros de grupo: ¿Ha dado un paso de más? ¿Tenía que ir hacia atrás en vez de hacia adelante?<br />Coged el robot, pulsad el botón de Clear (Borrar) para limpiarle la cabecita, y escribid las instrucciones correctas en su espalda. ¡A ver quién consigue salvar a Bee-Bot y llevarlo a su destino!</p>\n<p><strong>¡El error es nuestro amigo!</strong><br />Con este juego de detectives vamos a descubrir el secreto más importante de la robótica:</p>\n<p>¡Equivocarse no es malo! Incluso a los maestros y a los ordenadores se les escapan los errores a veces.</p>\n<p>Lo divertido de la tecnología es que los fallos nos ayudan a pensar, a buscar soluciones juntos y a entender mucho mejor cómo funcionan las cosas. ¡Un error es solo una oportunidad para volver a empezar!</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Un buen programador no es el que nunca se equivoca, sino el detective que encuentra el error, lo arregla en equipo y lo vuelve a intentar con paciencia\".</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamiento: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9nzz-kwpgqrgft</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 8: Creamos el tablero</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8: Creamos el tablero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8: Creamos el tablero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 8: Creamos el tablero</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9nzz-kwpgqrgft</odePageId>
+      <odeBlockId>block-1780741633640-dtvpin2se</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9nzz-kwpgqrgft</odePageId>
+          <odeBlockId>block-1780741633640-dtvpin2se</odeBlockId>
+          <odeIdeviceId>idevice-1780741633639-ttsen3adc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡Nos convertimos en Creadores del Mapa!</strong><br />¡Ya sois unos auténticos maestros de la robótica! Como ya controláis todos los movimientos de Bee-Bot, ha llegado el momento del reto final: ¡vamos a inventar un nuevo tablero de juego!</p>
+<p>Nos vamos a organizar por parejas frente a la pantalla.<br />Vamos a abrir una herramienta mágica de diseño que se llama Canva.<br />En lugar de jugar en un tablero ya hecho, ¡hoy vosotros vais a elegir qué sorpresas habrá en cada cuadrado!</p>
+<p><strong>¡Elegimos las imágenes en equipo!</strong><br />¿De qué os gustaría que fuera el nuevo mapa de Bee-Bot? ¡Vosotros decidís!</p>
+<p>Hablad con vuestro compañero o compañera: ¿Queréis un mapa de animales de la granja, de planetas del espacio, de dinosaurios o de vuestros dibujos favoritos?</p>
+<p>Con la ayuda del maestro, iréis buscando y arrastrando las imágenes dentro de la cuadrícula de Canva. ¡Tenéis que poneros de acuerdo para que el tablero quede súper bonito y colorido!</p>
+<p><strong>Recordamos las Reglas de los Guardianes de la Pantalla</strong><br />¡No olvidemos nuestro entrenamiento! Al usar Canva en la pantalla digital o en la tablet, seguimos demostrando que somos excelentes cuidadores de la tecnología:</p>
+<p>Compartimos el ratón o el dedo para que los dos miembros de la pareja puedan elegir dibujos.<br />Tocamos la pantalla con suavidad y esperamos con paciencia si una imagen tarda un poquito en cargarse. ¡Trabajar en equipo y con calma hace que los diseños salgan mejor!</p>
+<p><strong>¡A jugar en nuestro propio mapa!</strong><br />Una vez que todos los grupos hayáis terminado, la maestra o maestro imprimirá vuestro gran diseño en tamaño gigante para ponerlo en el suelo.</p>
+<p>¡Qué emocionante será programar a Bee-Bot para que viaje por un mapa creado por vosotros mismos!</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"La tecnología también sirve para inventar y crear nuestras propias cosas. ¡Cuando unimos la imaginación con el trabajo en equipo, podemos fabricar mundos enteros para nuestro robot!"</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamiento: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780741633639-ttsen3adc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Nos convertimos en Creadores del Mapa!</strong><br />¡Ya sois unos auténticos maestros de la robótica! Como ya controláis todos los movimientos de Bee-Bot, ha llegado el momento del reto final: ¡vamos a inventar un nuevo tablero de juego!</p>\n<p>Nos vamos a organizar por parejas frente a la pantalla.<br />Vamos a abrir una herramienta mágica de diseño que se llama Canva.<br />En lugar de jugar en un tablero ya hecho, ¡hoy vosotros vais a elegir qué sorpresas habrá en cada cuadrado!</p>\n<p><strong>¡Elegimos las imágenes en equipo!</strong><br />¿De qué os gustaría que fuera el nuevo mapa de Bee-Bot? ¡Vosotros decidís!</p>\n<p>Hablad con vuestro compañero o compañera: ¿Queréis un mapa de animales de la granja, de planetas del espacio, de dinosaurios o de vuestros dibujos favoritos?</p>\n<p>Con la ayuda del maestro, iréis buscando y arrastrando las imágenes dentro de la cuadrícula de Canva. ¡Tenéis que poneros de acuerdo para que el tablero quede súper bonito y colorido!</p>\n<p><strong>Recordamos las Reglas de los Guardianes de la Pantalla</strong><br />¡No olvidemos nuestro entrenamiento! Al usar Canva en la pantalla digital o en la tablet, seguimos demostrando que somos excelentes cuidadores de la tecnología:</p>\n<p>Compartimos el ratón o el dedo para que los dos miembros de la pareja puedan elegir dibujos.<br />Tocamos la pantalla con suavidad y esperamos con paciencia si una imagen tarda un poquito en cargarse. ¡Trabajar en equipo y con calma hace que los diseños salgan mejor!</p>\n<p><strong>¡A jugar en nuestro propio mapa!</strong><br />Una vez que todos los grupos hayáis terminado, la maestra o maestro imprimirá vuestro gran diseño en tamaño gigante para ponerlo en el suelo.</p>\n<p>¡Qué emocionante será programar a Bee-Bot para que viaje por un mapa creado por vosotros mismos!</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"La tecnología también sirve para inventar y crear nuestras propias cosas. ¡Cuando unimos la imaginación con el trabajo en equipo, podemos fabricar mundos enteros para nuestro robot!\"</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamiento: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o00-mx9qgqtpg</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 9: ¡A pintar!</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 9: ¡A pintar!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 9: ¡A pintar!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 9: ¡A pintar!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o00-mx9qgqtpg</odePageId>
+      <odeBlockId>block-1780741848776-nskz362ju</odeBlockId>
+      <blockName></blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o00-mx9qgqtpg</odePageId>
+          <odeBlockId>block-1780741848776-nskz362ju</odeBlockId>
+          <odeIdeviceId>idevice-1780741848775-jqcrvd7g8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡La Gran Votación de la Clase!</strong></p>
+<p>En la actividad anterior diseñamos en el ordenador, pero hoy... ¡vamos a mancharnos las manos y a pintar una alfombra gigante real entre todos!</p>
+<p>Lo primero que haremos en la asamblea será elegir la temática de nuestro nuevo mapa.</p>
+<p>¿Qué preferís? ¿Un mapa de piratas y tesoros, un fondo marino lleno de peces, o un viaje por la selva? ¡Votaremos en equipo para elegir la idea ganadora!</p>
+<p><strong>Buscamos inspiración en la Pantalla Digital</strong><br />Una vez que hayamos elegido el tema de la alfombra, encenderemos la pantalla digital.</p>
+<p>La maestra o maestro os enseñará fotos e ideas súper chulas en la pantalla sobre el tema elegido.</p>
+<p>Si ha ganado "el espacio", miraremos cómo son los cohetes y los planetas. ¡Así cogeremos las mejores ideas para nuestros dibujos!</p>
+<p><strong>¡Manos a la obra! Cada uno dibuja su pieza</strong><br />¡Llegó el momento de sacar vuestro talento artístico!</p>
+<p>Cada niño y niña tendrá un cuadrado de papel y sus pinturas favoritas.<br />Cada uno dibujará un elemento del tema que hemos elegido. Si el mapa es de la selva, uno puede dibujar un mono, otro una palmera, otro un plátano...</p>
+<p><br />Al terminar, pegaremos todos vuestros dibujos juntos en una gran cuadrícula. ¡Y ya tendremos una alfombra única y preciosa creada con el cariño de toda la clase!</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Cuando cada miembro del equipo aporta su propio dibujo, el resultado final es mucho más grande y hermoso. ¡Somos un gran equipo de artistas y programadores!".</p>
+<p>Sesiones: 1.</p>
+<p>Agrupamiento: Individual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780741848775-jqcrvd7g8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡La Gran Votación de la Clase!</strong></p>\n<p>En la actividad anterior diseñamos en el ordenador, pero hoy... ¡vamos a mancharnos las manos y a pintar una alfombra gigante real entre todos!</p>\n<p>Lo primero que haremos en la asamblea será elegir la temática de nuestro nuevo mapa.</p>\n<p>¿Qué preferís? ¿Un mapa de piratas y tesoros, un fondo marino lleno de peces, o un viaje por la selva? ¡Votaremos en equipo para elegir la idea ganadora!</p>\n<p><strong>Buscamos inspiración en la Pantalla Digital</strong><br />Una vez que hayamos elegido el tema de la alfombra, encenderemos la pantalla digital.</p>\n<p>La maestra o maestro os enseñará fotos e ideas súper chulas en la pantalla sobre el tema elegido.</p>\n<p>Si ha ganado \"el espacio\", miraremos cómo son los cohetes y los planetas. ¡Así cogeremos las mejores ideas para nuestros dibujos!</p>\n<p><strong>¡Manos a la obra! Cada uno dibuja su pieza</strong><br />¡Llegó el momento de sacar vuestro talento artístico!</p>\n<p>Cada niño y niña tendrá un cuadrado de papel y sus pinturas favoritas.<br />Cada uno dibujará un elemento del tema que hemos elegido. Si el mapa es de la selva, uno puede dibujar un mono, otro una palmera, otro un plátano...</p>\n<p><br />Al terminar, pegaremos todos vuestros dibujos juntos en una gran cuadrícula. ¡Y ya tendremos una alfombra única y preciosa creada con el cariño de toda la clase!</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Cuando cada miembro del equipo aporta su propio dibujo, el resultado final es mucho más grande y hermoso. ¡Somos un gran equipo de artistas y programadores!\".</p>\n<p>Sesiones: 1.</p>\n<p>Agrupamiento: Individual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o01-ftw83yewq</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 10: Resolución de problemas</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 10: Resolución de problemas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 10: Resolución de problemas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 10: Resolución de problemas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o01-ftw83yewq</odePageId>
+      <odeBlockId>block-1780742280051-u2ffu8o7e</odeBlockId>
+      <blockName></blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o01-ftw83yewq</odePageId>
+          <odeBlockId>block-1780742280051-u2ffu8o7e</odeBlockId>
+          <odeIdeviceId>idevice-1780742280048-u63186m4l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El Gran Desafío de las Pistas</strong><br />¡Ha llegado el momento más divertido! Ahora que nuestros tableros creados a mano y en Canva están listos en el suelo, vamos a jugar a las adivinanzas de programación.</p>
+<p>Vuestra maestra o maestro no os va a decir a qué casilla exacta tiene que ir Bee-Bot. ¡Os va a dar una pista misteriosa!</p>
+<p>Por ejemplo: "¡Atención, equipo! Bee-Bot tiene mucha hambre y quiere llegar a una fruta de color... ¡VERDE!"</p>
+<p>Con vuestro grupo, tendréis que mirar el tablero, buscar qué frutas verdes hay y elegir vuestro destino.</p>
+<p><strong>Pensamos el Plan en Equipo</strong><br />¡No tengáis prisa por pulsar los botones! Los buenos programadores primero usan el cerebro y luego los dedos.</p>
+<p>Hablad con vuestros compañeros de equipo para trazar la ruta: "Primero tenemos que dar dos pasos adelante, luego girar a la izquierda y dar un paso más para llegar a la manzana verde".</p>
+<p>Podéis señalar el camino con el dedo en el suelo antes de tocar al robot para aseguraros de que no os vais a perder. ¡Cuatro ojos ven más que dos!</p>
+<p><strong>¡Programamos y resolvemos!</strong><br />Una vez que el equipo esté de acuerdo con el plan:</p>
+<p>Ponemos a Bee-Bot en la casilla de salida.<br />Pulsamos los botones con cuidado (¡recordando las normas de los guardianes de la tecnología!) y le damos al botón verde de GO.<br />Si el robot llega a la fruta verde... ¡lo habéis logrado! Habréis resuelto el problema utilizando la lógica y el trabajo en equipo.</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Programar no es solo mover un robot, es pensar, escuchar las pistas con atención y buscar la mejor solución junto a nuestros amigos".</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamiento: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780742280048-u63186m4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El Gran Desafío de las Pistas</strong><br />¡Ha llegado el momento más divertido! Ahora que nuestros tableros creados a mano y en Canva están listos en el suelo, vamos a jugar a las adivinanzas de programación.</p>\n<p>Vuestra maestra o maestro no os va a decir a qué casilla exacta tiene que ir Bee-Bot. ¡Os va a dar una pista misteriosa!</p>\n<p>Por ejemplo: \"¡Atención, equipo! Bee-Bot tiene mucha hambre y quiere llegar a una fruta de color... ¡VERDE!\"</p>\n<p>Con vuestro grupo, tendréis que mirar el tablero, buscar qué frutas verdes hay y elegir vuestro destino.</p>\n<p><strong>Pensamos el Plan en Equipo</strong><br />¡No tengáis prisa por pulsar los botones! Los buenos programadores primero usan el cerebro y luego los dedos.</p>\n<p>Hablad con vuestros compañeros de equipo para trazar la ruta: \"Primero tenemos que dar dos pasos adelante, luego girar a la izquierda y dar un paso más para llegar a la manzana verde\".</p>\n<p>Podéis señalar el camino con el dedo en el suelo antes de tocar al robot para aseguraros de que no os vais a perder. ¡Cuatro ojos ven más que dos!</p>\n<p><strong>¡Programamos y resolvemos!</strong><br />Una vez que el equipo esté de acuerdo con el plan:</p>\n<p>Ponemos a Bee-Bot en la casilla de salida.<br />Pulsamos los botones con cuidado (¡recordando las normas de los guardianes de la tecnología!) y le damos al botón verde de GO.<br />Si el robot llega a la fruta verde... ¡lo habéis logrado! Habréis resuelto el problema utilizando la lógica y el trabajo en equipo.</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Programar no es solo mover un robot, es pensar, escuchar las pistas con atención y buscar la mejor solución junto a nuestros amigos\".</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamiento: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o02-xniambgpo</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 11: Creación de un rincón</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 11: Creación de un rincón</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 11: Creación de un rincón</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 11: Creación de un rincón</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o02-xniambgpo</odePageId>
+      <odeBlockId>block-1780742466695-mbaf7vkup</odeBlockId>
+      <blockName></blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o02-xniambgpo</odePageId>
+          <odeBlockId>block-1780742466695-mbaf7vkup</odeBlockId>
+          <odeIdeviceId>idevice-1780742466693-3dr3nwzyh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Construimos nuestro nuevo rincón favorito</strong><br />¡La aventura de la robótica no termina hoy! Para poder jugar y programar todos los días, vamos a crear un espacio permanente y súper especial en nuestra clase: ¡El Rincón de la Robótica!</p>
+<p>Entre todos elegiremos una zona de la clase que esté despejada.<br />Allí colocaremos una estantería o una caja mágica para guardar a nuestros robots Bee-Bot.</p>
+<p>También dejaremos un espacio grande en el suelo para poder desplegar todas las alfombras que hemos diseñado: la de los números, la de Canva y la que pintamos todos juntos. ¡Será nuestro laboratorio secreto!</p>
+<p><strong>Las Normas del Rincón</strong><br />A partir de ahora, podréis ir a este rincón en el tiempo de juego libre o por rincones, pero para que funcione de maravilla, todos debemos ser súper responsables:</p>
+<p>El parking de Bee-Bot: Cuando terminemos de jugar, los robots no se quedan tirados en el suelo, ¡vuelven a su casita a descansar y a cargar las pilas!</p>
+<p><em>Cuidamos los mapas:</em> Las alfombras que tanto trabajo nos ha costado fabricar se cuidan con mucho amor. Las recogemos despacio y no las pisamos con los zapatos sucios.</p>
+<p><em>Compartimos los robots:</em> En el rincón jugaremos en pequeños grupos, respetando los turnos para pulsar los botones y ayudando al compañero si se equivoca.</p>
+<p><strong>¡Un rincón vivo para seguir creando!</strong><br />Este rincón será como un árbol que va creciendo. Cada vez que queramos aprender algo nuevo (los animales, las letras, las formas geométricas...), podremos inventar y traer un mapa nuevo al rincón. ¡Las misiones nunca se acaban si usamos la imaginación!</p>
+<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />"Tener un rincón de robótica en clase es una suerte y una gran responsabilidad. Si cuidamos el material y trabajamos en equipo, ¡podremos vivir mil aventuras robóticas todos los días!"</p>
+<p>Sesiones: 2.</p>
+<p>Agrupamiento: Por grupos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780742466693-3dr3nwzyh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Construimos nuestro nuevo rincón favorito</strong><br />¡La aventura de la robótica no termina hoy! Para poder jugar y programar todos los días, vamos a crear un espacio permanente y súper especial en nuestra clase: ¡El Rincón de la Robótica!</p>\n<p>Entre todos elegiremos una zona de la clase que esté despejada.<br />Allí colocaremos una estantería o una caja mágica para guardar a nuestros robots Bee-Bot.</p>\n<p>También dejaremos un espacio grande en el suelo para poder desplegar todas las alfombras que hemos diseñado: la de los números, la de Canva y la que pintamos todos juntos. ¡Será nuestro laboratorio secreto!</p>\n<p><strong>Las Normas del Rincón</strong><br />A partir de ahora, podréis ir a este rincón en el tiempo de juego libre o por rincones, pero para que funcione de maravilla, todos debemos ser súper responsables:</p>\n<p>El parking de Bee-Bot: Cuando terminemos de jugar, los robots no se quedan tirados en el suelo, ¡vuelven a su casita a descansar y a cargar las pilas!</p>\n<p><em>Cuidamos los mapas:</em> Las alfombras que tanto trabajo nos ha costado fabricar se cuidan con mucho amor. Las recogemos despacio y no las pisamos con los zapatos sucios.</p>\n<p><em>Compartimos los robots:</em> En el rincón jugaremos en pequeños grupos, respetando los turnos para pulsar los botones y ayudando al compañero si se equivoca.</p>\n<p><strong>¡Un rincón vivo para seguir creando!</strong><br />Este rincón será como un árbol que va creciendo. Cada vez que queramos aprender algo nuevo (los animales, las letras, las formas geométricas...), podremos inventar y traer un mapa nuevo al rincón. ¡Las misiones nunca se acaban si usamos la imaginación!</p>\n<p><strong>Nuestro Gran Aprendizaje de hoy</strong><br />\"Tener un rincón de robótica en clase es una suerte y una gran responsabilidad. Si cuidamos el material y trabajamos en equipo, ¡podremos vivir mil aventuras robóticas todos los días!\"</p>\n<p>Sesiones: 2.</p>\n<p>Agrupamiento: Por grupos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o02-cre7hkwc3</odePageId>
+  <odeParentPageId>page-mq3k9nzo-wupcemsd6</odeParentPageId>
+  <pageName>Tarea 12: ¿Qué hemos aprendido?</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 12: ¿Qué hemos aprendido?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 12: ¿Qué hemos aprendido?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 12: ¿Qué hemos aprendido?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o02-cre7hkwc3</odePageId>
+      <odeBlockId>block-1780742882246-c9sefdst2</odeBlockId>
+      <blockName></blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o02-cre7hkwc3</odePageId>
+          <odeBlockId>block-1780742882246-c9sefdst2</odeBlockId>
+          <odeIdeviceId>idevice-1780742882244-2d5aswf73</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El Espejo del Sabio: ¿Qué sabemos ahora?</strong><br />¡Lo hemos conseguido! Hemos completado todo el camino de la robótica. Ahora nos volvemos a sentar en círculo en la asamblea, miramos hacia atrás y pensamos:</p>
+<p>¿Os acordáis de cuando pensábamos que los robots eran gigantes de metal que daban un poco de miedo? ¡Mirad ahora todo lo que sabemos de Bee-Bot!</p>
+<p>Cada uno va a contar qué ha sido lo más divertido del proyecto: ¿Hacer de Niño-Robot? ¿Buscar errores como detectives? ¿O pintar nuestra propia alfombra?</p>
+<p><strong>Los Robots en nuestro día a día: ¡Están por todas partes!</strong><br />Ya sabemos que la tecnología sirve para ayudarnos y aprender, pero... ¿sabías que en casa y en la calle también hay robots ayudándonos todos los días? ¡Vamos a buscarlos con los ojos bien abiertos!</p>
+<p><em>En casa: </em>Esa aspiradora redonda que limpia sola el suelo... ¡es un robot hermano de Bee-Bot!</p>
+<p><em>En la calle:</em> Los semáforos que cambian de color para que los coches no choquen o los cajeros automáticos... ¡también usan tecnología para ayudarnos a vivir mejor!</p>
+<p>Los robots no hacen magia, los crean las personas para hacernos la vida más fácil, limpia y segura.</p>
+<p><strong>¡La Gran Celebración del Equipo!</strong><br />Para terminar, nos vamos a dar un aplauso gigante. Hemos aprendido a:</p>
+<p>Escuchar las ideas de los demás.<br />Cuidar las pantallas digitales con dedos suaves.<br />Perder el miedo a equivocarnos (¡porque los errores nos enseñan!).<br />Trabajar juntos como un verdadero equipo de científicos y científicas.</p>
+<p>¡Choca esos cinco con tus compañeros!</p>
+<p><strong>Nuestro Gran Aprendizaje Final</strong><br />"La tecnología es maravillosa si la usamos con respeto, compartiendo con los amigos y utilizándola para crear cosas bonitas que ayuden a los demás".</p>
+<p>Sesiones: 1.</p>
+<p>Agrupamiento: Gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780742882244-2d5aswf73","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El Espejo del Sabio: ¿Qué sabemos ahora?</strong><br />¡Lo hemos conseguido! Hemos completado todo el camino de la robótica. Ahora nos volvemos a sentar en círculo en la asamblea, miramos hacia atrás y pensamos:</p>\n<p>¿Os acordáis de cuando pensábamos que los robots eran gigantes de metal que daban un poco de miedo? ¡Mirad ahora todo lo que sabemos de Bee-Bot!</p>\n<p>Cada uno va a contar qué ha sido lo más divertido del proyecto: ¿Hacer de Niño-Robot? ¿Buscar errores como detectives? ¿O pintar nuestra propia alfombra?</p>\n<p><strong>Los Robots en nuestro día a día: ¡Están por todas partes!</strong><br />Ya sabemos que la tecnología sirve para ayudarnos y aprender, pero... ¿sabías que en casa y en la calle también hay robots ayudándonos todos los días? ¡Vamos a buscarlos con los ojos bien abiertos!</p>\n<p><em>En casa: </em>Esa aspiradora redonda que limpia sola el suelo... ¡es un robot hermano de Bee-Bot!</p>\n<p><em>En la calle:</em> Los semáforos que cambian de color para que los coches no choquen o los cajeros automáticos... ¡también usan tecnología para ayudarnos a vivir mejor!</p>\n<p>Los robots no hacen magia, los crean las personas para hacernos la vida más fácil, limpia y segura.</p>\n<p><strong>¡La Gran Celebración del Equipo!</strong><br />Para terminar, nos vamos a dar un aplauso gigante. Hemos aprendido a:</p>\n<p>Escuchar las ideas de los demás.<br />Cuidar las pantallas digitales con dedos suaves.<br />Perder el miedo a equivocarnos (¡porque los errores nos enseñan!).<br />Trabajar juntos como un verdadero equipo de científicos y científicas.</p>\n<p>¡Choca esos cinco con tus compañeros!</p>\n<p><strong>Nuestro Gran Aprendizaje Final</strong><br />\"La tecnología es maravillosa si la usamos con respeto, compartiendo con los amigos y utilizándola para crear cosas bonitas que ayuden a los demás\".</p>\n<p>Sesiones: 1.</p>\n<p>Agrupamiento: Gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o03-ex86ocp2l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o03-ex86ocp2l</odePageId>
+      <odeBlockId>block-1780744148418-lr07qctq1</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o03-ex86ocp2l</odePageId>
+          <odeBlockId>block-1780744148418-lr07qctq1</odeBlockId>
+          <odeIdeviceId>idevice-1780744148417-1b64jnve7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780744148417-1b64jnve7" title="" href="{{context_path}}/content/resources/Imagen producto final.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Imagen producto final.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="Gemini (dominio público)" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744148417-1b64jnve7","img_0":{"img":"{{context_path}}/content/resources/Imagen producto final.png","thumbnail":"{{context_path}}/content/resources/Imagen producto final.png","title":"","linktitle":"","author":"","linkauthor":"","license":"Gemini (dominio público)"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq3k9o03-ex86ocp2l</odePageId>
+      <odeBlockId>block-1780744133914-hosfxexgj</odeBlockId>
+      <blockName>¡CONSEGUIDO!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o03-ex86ocp2l</odePageId>
+          <odeBlockId>block-1780744133914-hosfxexgj</odeBlockId>
+          <odeIdeviceId>idevice-1780743726106-b9cmyq4zt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Escuchad atentos, Súper Programadores y Súper Programadoras! Poneros derechos, sacad pecho y mirad a vuestro alrededor... ¡LO HABÉIS CONSEGUIDO!</p>
+<p>¿Os acordáis de cuando empezamos este viaje? Al principio no sabíamos muy bien cómo hablarle a un robot, nos daba un poquito de miedo equivocarnos y las pantallas eran un gran misterio. Pero mirad ahora... ¡habéis superado todas las misiones como auténticos científicos!</p>
+<p>Este maravilloso Rincón de la Robótica que veis hoy en clase no ha aparecido por arte de magia. ¡Lo habéis fabricado vosotros con vuestras propias manos y vuestros supercerebros!</p>
+<p>Lo más bonito de todo es que no lo ha hecho un niño solo, ni una niña sola. Este rincón ha nacido gracias al superpoder más grande que tenemos en esta clase: ¡EL COMPAÑERISMO!</p>
+<p>Gracias a que habéis sabido compartir los botones de Bee-Bot.</p>
+<p>Gracias a que os habéis escuchado para elegir los dibujos en Canva.</p>
+<p>Y gracias a que, cuando un robot se chocaba, os habéis dado un abrazo y os habéis ayudado a buscar el error juntos, sin enfadaros.</p>
+<p>¡Eso es ser un verdadero equipo! </p>
+<p>A partir de hoy, y durante todo el curso, este rincón será vuestro laboratorio secreto. Podréis venir a jugar, a inventar caminos nuevos, a contar números y a vivir mil aventuras con nuestros amigos los robots siempre que queráis.</p>
+<p>"Solos podemos dar un paso, pero juntos en equipo... ¡hemos programado un mundo entero! ¡Muchísimas felicidades, campeones!"</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780743726106-b9cmyq4zt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Escuchad atentos, Súper Programadores y Súper Programadoras! Poneros derechos, sacad pecho y mirad a vuestro alrededor... ¡LO HABÉIS CONSEGUIDO!</p>\n<p>¿Os acordáis de cuando empezamos este viaje? Al principio no sabíamos muy bien cómo hablarle a un robot, nos daba un poquito de miedo equivocarnos y las pantallas eran un gran misterio. Pero mirad ahora... ¡habéis superado todas las misiones como auténticos científicos!</p>\n<p>Este maravilloso Rincón de la Robótica que veis hoy en clase no ha aparecido por arte de magia. ¡Lo habéis fabricado vosotros con vuestras propias manos y vuestros supercerebros!</p>\n<p>Lo más bonito de todo es que no lo ha hecho un niño solo, ni una niña sola. Este rincón ha nacido gracias al superpoder más grande que tenemos en esta clase: ¡EL COMPAÑERISMO!</p>\n<p>Gracias a que habéis sabido compartir los botones de Bee-Bot.</p>\n<p>Gracias a que os habéis escuchado para elegir los dibujos en Canva.</p>\n<p>Y gracias a que, cuando un robot se chocaba, os habéis dado un abrazo y os habéis ayudado a buscar el error juntos, sin enfadaros.</p>\n<p>¡Eso es ser un verdadero equipo! </p>\n<p>A partir de hoy, y durante todo el curso, este rincón será vuestro laboratorio secreto. Podréis venir a jugar, a inventar caminos nuevos, a contar números y a vivir mil aventuras con nuestros amigos los robots siempre que queráis.</p>\n<p>\"Solos podemos dar un paso, pero juntos en equipo... ¡hemos programado un mundo entero! ¡Muchísimas felicidades, campeones!\"</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o04-6arb17392</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INFOGRAFÍA: PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFOGRAFÍA: PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INFOGRAFÍA: PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INFOGRAFÍA: PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o04-6arb17392</odePageId>
+      <odeBlockId>block-1780744305530-9wdbg8f8h</odeBlockId>
+      <blockName>Protege tus datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o04-6arb17392</odePageId>
+          <odeBlockId>block-1780744305530-9wdbg8f8h</odeBlockId>
+          <odeIdeviceId>idevice-1780744305529-1j2opluuk</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780744305529-1j2opluuk" title="" href="{{context_path}}/content/resources/2.3. Licencias y seguridad.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.3. Licencias y seguridad.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="Canva" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744305529-1j2opluuk","img_0":{"img":"{{context_path}}/content/resources/2.3. Licencias y seguridad.jpg","thumbnail":"{{context_path}}/content/resources/2.3. Licencias y seguridad.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":"Canva"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o05-4xkihfevz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS DE CURACIÓN DE CONTENIDO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HERRAMIENTAS DE CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o05-4xkihfevz</odePageId>
+      <odeBlockId>block-1780744541292-94lyjvyy1</odeBlockId>
+      <blockName>Herramientas de curación de contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o05-4xkihfevz</odePageId>
+          <odeBlockId>block-1780744541292-94lyjvyy1</odeBlockId>
+          <odeIdeviceId>idevice-1780744541289-xg7h81552</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os comparto en un solo mensaje los dos enlaces del proyecto que hemos ido trabajando para que los tengáis localizados:</p>
+<p>Para el docente:</p>
+<p><a href="herramientas-de-curacion-de-contenido.html" title="" onclick="window.open('https://drive.google.com/drive/folders/1aCC85EjTPR99MeYzBF5xfAE9tS1c2_H4','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Información para los docentes</a></p>
+<p>Para el alumnado:</p>
+<p><a href="herramientas-de-curacion-de-contenido.html" title="" onclick="window.open('https://padlet.com/maricarmenll1311/robotica-5-anos-zdngy9xgfdn9bmj8','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Información para los alumnos</a></p>
+<p>¡Espero que os sea de gran utilidad para seguir disfrutando de nuestro nuevo Rincón de la Robótica!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744541289-xg7h81552","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os comparto en un solo mensaje los dos enlaces del proyecto que hemos ido trabajando para que los tengáis localizados:</p>\n<p>Para el docente:</p>\n<p><a href=\"exe-node:page-mq3k9o05-4xkihfevz\" title=\"\" onclick=\"window.open('https://drive.google.com/drive/folders/1aCC85EjTPR99MeYzBF5xfAE9tS1c2_H4','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Información para los docentes</a></p>\n<p>Para el alumnado:</p>\n<p><a href=\"exe-node:page-mq3k9o05-4xkihfevz\" title=\"\" onclick=\"window.open('https://padlet.com/maricarmenll1311/robotica-5-anos-zdngy9xgfdn9bmj8','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Información para los alumnos</a></p>\n<p>¡Espero que os sea de gran utilidad para seguir disfrutando de nuestro nuevo Rincón de la Robótica!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o05-pnq4sav3y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o05-pnq4sav3y</odePageId>
+      <odeBlockId>block-1780744924650-3677feiaf</odeBlockId>
+      <blockName>Línea temporal para la organización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o05-pnq4sav3y</odePageId>
+          <odeBlockId>block-1780744924650-3677feiaf</odeBlockId>
+          <odeIdeviceId>idevice-1780744924649-61ub6pofk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace podéis ver la temporalización de las sesiones:</p>
+<p><a href="linea-temporal.html" title="Línea temporal" onclick="window.open('https://padlet.com/maricarmenll1311/linea-temporal-de-la-sda-el-robot-que-perdio-sus-comandos-m70xnh9u41oa2teo','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Línea temporal</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780744924649-61ub6pofk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace podéis ver la temporalización de las sesiones:</p>\n<p><a href=\"exe-node:page-mq3k9o05-pnq4sav3y\" title=\"Línea temporal\" onclick=\"window.open('https://padlet.com/maricarmenll1311/linea-temporal-de-la-sda-el-robot-que-perdio-sus-comandos-m70xnh9u41oa2teo','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Línea temporal</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o06-x14v9edht</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o06-odg3uw0af</odePageId>
+  <odeParentPageId>page-mq3k9o06-x14v9edht</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o06-odg3uw0af</odePageId>
+      <odeBlockId>block-1780760604382-ag8mk5hr7</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o06-odg3uw0af</odePageId>
+          <odeBlockId>block-1780760604382-ag8mk5hr7</odeBlockId>
+          <odeIdeviceId>idevice-1780760604379-fmjgcw9nf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace se muestran los criterios de evaluación de esta situación de aprendizaje, relacionados con las actividades que se van a realizar.</p>
+<p><a href="criterios-de-evaluacion.html" title="Criterios de evaluación" onclick="window.open('https://docs.google.com/document/d/1vz0ro-Jnj7QCPVh9hjrw-v0FaA6I1yce/edit#heading=h.4okqri44zjgy','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780760604379-fmjgcw9nf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace se muestran los criterios de evaluación de esta situación de aprendizaje, relacionados con las actividades que se van a realizar.</p>\n<p><a href=\"exe-node:page-mq3k9o06-odg3uw0af\" title=\"Criterios de evaluación\" onclick=\"window.open('https://docs.google.com/document/d/1vz0ro-Jnj7QCPVh9hjrw-v0FaA6I1yce/edit#heading=h.4okqri44zjgy','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o07-sd1c30lch</odePageId>
+  <odeParentPageId>page-mq3k9o06-x14v9edht</odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o07-sd1c30lch</odePageId>
+      <odeBlockId>block-1780760707517-n4uezqb5f</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o07-sd1c30lch</odePageId>
+          <odeBlockId>block-1780760707517-n4uezqb5f</odeBlockId>
+          <odeIdeviceId>idevice-1780760707515-h050o4v9z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace muestro la lista de cotejo con todos los ítems que se van a evaluar.</p>
+<p><a href="instrumentos-de-evaluacion.html" title="Lista de cotejo" onclick="window.open('https://docs.google.com/document/d/1SwiR0WJ8YL77yLmJlUluz3I67i0qi2bG/edit?usp=sharing&amp;ouid=113945834850822350783&amp;rtpof=true&amp;sd=true','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Lista de cotejo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780760707515-h050o4v9z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace muestro la lista de cotejo con todos los ítems que se van a evaluar.</p>\n<p><a href=\"exe-node:page-mq3k9o07-sd1c30lch\" title=\"Lista de cotejo\" onclick=\"window.open('https://docs.google.com/document/d/1SwiR0WJ8YL77yLmJlUluz3I67i0qi2bG/edit?usp=sharing&amp;ouid=113945834850822350783&amp;rtpof=true&amp;sd=true','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Lista de cotejo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq3k9o07-sd1c30lch</odePageId>
+      <odeBlockId>block-1780760965836-g614lk8m1</odeBlockId>
+      <blockName>Registro anecdótico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o07-sd1c30lch</odePageId>
+          <odeBlockId>block-1780760965836-g614lk8m1</odeBlockId>
+          <odeIdeviceId>idevice-1780760965834-0avajlfto</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace podemos visitar el registro anecdótico que se realizará:</p>
+<p><a href="instrumentos-de-evaluacion.html" title="Registro anecdótico" onclick="window.open('https://padlet.com/maricarmenll1311/registro-anecdotico-mill1r7widczl1or','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Registro anecdótico</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780760965834-0avajlfto","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace podemos visitar el registro anecdótico que se realizará:</p>\n<p><a href=\"exe-node:page-mq3k9o07-sd1c30lch\" title=\"Registro anecdótico\" onclick=\"window.open('https://padlet.com/maricarmenll1311/registro-anecdotico-mill1r7widczl1or','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Registro anecdótico</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o08-fn8tuf78b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o08-fn8tuf78b</odePageId>
+      <odeBlockId>block-1780766919601-p4q0s9bsw</odeBlockId>
+      <blockName>Guía Didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o08-fn8tuf78b</odePageId>
+          <odeBlockId>block-1780766919601-p4q0s9bsw</odeBlockId>
+          <odeIdeviceId>idevice-1780766919598-sf579r7a4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace se puede consultar la Guía Didáctica de esta situación de aprendizaje. </p>
+<p>Dentro de la misma, se han creado enlaces directos que te llevan a ampliar dicha guía con el objeto de facilitar su comprensión.</p>
+<p><a href="guia-didactica.html" title="Guía Didáctica" onclick="window.open('https://drive.google.com/file/d/1PWEwt6Dw7rcrBm0VALNSjcyBltkHafIx/view?usp=sharing','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">https://drive.google.com/file/d/1PWEwt6Dw7rcrBm0VALNSjcyBltkHafIx/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780766919598-sf579r7a4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace se puede consultar la Guía Didáctica de esta situación de aprendizaje. </p>\n<p>Dentro de la misma, se han creado enlaces directos que te llevan a ampliar dicha guía con el objeto de facilitar su comprensión.</p>\n<p><a href=\"exe-node:page-mq3k9o08-fn8tuf78b\" title=\"Guía Didáctica\" onclick=\"window.open('https://drive.google.com/file/d/1PWEwt6Dw7rcrBm0VALNSjcyBltkHafIx/view?usp=sharing','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">https://drive.google.com/file/d/1PWEwt6Dw7rcrBm0VALNSjcyBltkHafIx/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3k9o09-0wu4iv359</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CREDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CREDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3k9o09-0wu4iv359</odePageId>
+      <odeBlockId>block-1780767376409-svhsyp4a5</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3k9o09-0wu4iv359</odePageId>
+          <odeBlockId>block-1780767376409-svhsyp4a5</odeBlockId>
+          <odeIdeviceId>idevice-1780767376406-i409aju7r</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Operación rescate: El robot que perdió sus comandos</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mari Carmen López López</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
